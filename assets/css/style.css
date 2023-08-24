@@ -73,6 +73,10 @@ a:visited {
   font-weight: bold;
 }
 
+.card p {
+  line-height: 30px;
+}
+
 .card.flipped {
   transform: rotateY(180deg); /* Animação */
 }
